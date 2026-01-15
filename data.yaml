@@ -1,0 +1,5 @@
+path: C:/Users/Nathanael F/Documents/Semester5/CK/my_dataset
+train: images/train
+val: images/val
+nc: 3
+names: ["Red","Blue","Green"]
